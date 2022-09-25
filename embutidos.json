@@ -1,0 +1,22 @@
+[
+    {
+        "nombre" : "Salchicha",
+        "precio" : 10000,
+        "descripcion":""
+    },
+    {
+        "nombre" : "Jamón", 
+        "precio" : 30000,
+        "descripcion":""
+    },
+    {
+        "nombre" : "Chorizo",
+        "precio" : 100000000,
+        "descripcion" : ""
+    },
+    {
+        "nombre" : "Longaniza",
+        "precio" : 5,
+        "descripcion" : ""
+    }
+]

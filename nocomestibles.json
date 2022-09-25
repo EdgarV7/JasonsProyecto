@@ -1,0 +1,22 @@
+[
+    {
+        "nombre" : "Pasta dental",
+        "precio" : 10000,
+        "descripcion":""
+    },
+    {
+        "nombre" : "Shampoo", 
+        "precio" : 30000,
+        "descripcion":""
+    },
+    {
+        "nombre" : "Detergente",
+        "precio" : 100000000,
+        "descripcion" : ""
+    },
+    {
+        "nombre" : "jabón corporal",
+        "precio" : 5,
+        "descripcion" : ""
+    }
+]

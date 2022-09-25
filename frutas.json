@@ -1,0 +1,22 @@
+[
+    {
+        "nombre" : "Manzana",
+        "precio" : 10000,
+        "descripcion":""
+    },
+    {
+        "nombre" : "Platano", 
+        "precio" : 30000,
+        "descripcion":""
+    },
+    {
+        "nombre" : "Naranja",
+        "precio" : 100000000,
+        "descripcion" : ""
+    },
+    {
+        "nombre" : "Fresas",
+        "precio" : 5,
+        "descripcion" : ""
+    }
+]
