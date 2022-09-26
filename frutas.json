@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Manzana",
+        "precio" : 10000,
+        "paquete" : "Precio por kg",
+        "descripcion":"Pulpa blanca y cremosa, sabor dulce con un toque de acidez."
+    },
+    {
+        "nombre" : "Plátano", 
+        "precio" : 30000,
+        "paquete" : "Precio por kg",
+        "descripcion":"Con alto contenido en potasio, hierro y vitamina K."
+    },
+    {
+        "nombre" : "Naranja",
+        "precio" : 100000000,
+        "paquete" : "Precio por kg",
+        "descripcion" : "Ricas en tiamina, ácido fólico y vitamina C."
+    },
+    {
+        "nombre" : "Fresas",
+        "precio" : 5,
+        "paquete" : "Domo 454 g",
+        "descripcion" : "Refrescante y deliciosa, alta en fibra y vitamina C."
+    }
+]

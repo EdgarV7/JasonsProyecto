@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Pasta dental",
+        "precio" : 10000,
+        "paquete" : "125 ml",
+        "descripcion":"Pasta dental on bicarbonato de sodio sabor menta."
+    },
+    {
+        "nombre" : "Shampoo", 
+        "precio" : 30000,
+        "paquete" : "375 ml",
+        "descripcion":"Shampoo con 0% Parabenos, colorantes y sal."
+    },
+    {
+        "nombre" : "Detergente",
+        "precio" : 100000000,
+        "paquete" : "Botella 4.65 L",
+        "descripcion" : "Protege y renueva los colores, rinde 62 cargas."
+    },
+    {
+        "nombre" : "jabón corporal",
+        "precio" : 5,
+        "paquete" : "Paquete 3 x 110 g",
+        "descripcion" : "Contiene: 3 barras de jabón de 110 g c/u."
+    }
+]

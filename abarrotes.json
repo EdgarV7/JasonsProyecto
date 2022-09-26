@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Aderezo",
+        "precio" : 10000,
+        "paquete" : "500 g",
+        "descripcion":"Reducido en grasa."
+    },
+    {
+        "nombre" : "Cereal Corn Flakes", 
+        "precio" : 30000,
+        "paquete" : "Caja 465 g",
+        "descripcion":"Elaborados con granos de maíz 100% naturales."
+    },
+    {
+        "nombre" : "Jugo jumex",
+        "precio" : 100000000,
+        "paquete" : "Cartón 1 L.",
+        "descripcion" : "Jugo de naranja Jumex Único Fresco sin pulpa."
+    },
+    {
+        "nombre" : "Cátsup",
+        "precio" : 5,
+        "paquete" : "Botella 397 g",
+        "descripcion" : "Sin conservadores, espesantes, ni colorantes."
+    }
+]

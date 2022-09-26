@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Salchicha",
+        "precio" : 10000,
+        "paquete" : "Resellable 500 g",
+        "descripcion":"Sin conservadores ni colorantes artificiales. Con empaque resellable."
+    },
+    {
+        "nombre" : "Jamón", 
+        "precio" : 30000,
+        "paquete" : "Resellable 250 g",
+        "descripcion":"Rebanadas delgadas. Sin colorantes ni conservadores artificiales."
+    },
+    {
+        "nombre" : "Chorizo",
+        "precio" : 100000000,
+        "paquete" : "Al vacío",
+        "descripcion" : "Chorizo de pavo reducido en grasa."
+    },
+    {
+        "nombre" : "Tocino",
+        "precio" : 5,
+        "paquete" : "225 g",
+        "descripcion" : "Tocino ahumado Peñaranda, su empaque es práctico conservando la frescura y sabor."
+    }
+]
