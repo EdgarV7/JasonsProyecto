@@ -9,21 +9,21 @@
     {
         "nombre" : "Plátano", 
         "precio" : 30000,
-        "imagen" : "https://www.frutality.es/wp-content/uploads/manzana-royal.png",
+        "imagen" : "https://www.dmass.com.mx/assets/images/platano-986x723.png",
         "paquete" : "Precio por kg",
         "descripcion":"Con alto contenido en potasio, hierro y vitamina K."
     },
     {
         "nombre" : "Naranja",
         "precio" : 100000000,
-        "imagen" : "https://www.frutality.es/wp-content/uploads/manzana-royal.png",
+        "imagen" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c16c.png",
         "paquete" : "Precio por kg",
         "descripcion" : "Ricas en tiamina, ácido fólico y vitamina C."
     },
     {
         "nombre" : "Fresas",
         "precio" : 5,
-        "imagen" : "https://www.frutality.es/wp-content/uploads/manzana-royal.png",
+        "imagen" : "https://www.centralenlinea.com/images/thumbs/001/0019633_fresa-en-domo-de-454g_550.png",
         "paquete" : "Domo 454 g",
         "descripcion" : "Refrescante y deliciosa, alta en fibra y vitamina C."
     }
