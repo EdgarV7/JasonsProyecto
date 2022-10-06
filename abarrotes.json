@@ -2,24 +2,28 @@
     {
         "nombre" : "Aderezo",
         "precio" : 10000,
+        "imagen" : "https://cdn.shopify.com/s/files/1/0493/1865/8210/products/diosaverde237g_1600x.png?v=1645053283",
         "paquete" : "500 g",
         "descripcion":"Reducido en grasa."
     },
     {
         "nombre" : "Cereal Corn Flakes", 
         "precio" : 30000,
+        "imagen" : "https://www.kelloggs.es/content/dam/europe/kelloggs_es/images/our-brands/all-bran/cornflakes.png",
         "paquete" : "Caja 465 g",
         "descripcion":"Elaborados con granos de maíz 100% naturales."
     },
     {
         "nombre" : "Jugo jumex",
         "precio" : 100000000,
+        "imagen" : "https://www.heb.com.mx/media/catalog/product/cache/9f5ec31302878493d9ed0ac40a398e12/1/3/138220_image.png",
         "paquete" : "Cartón 1 L.",
         "descripcion" : "Jugo de naranja Jumex Único Fresco sin pulpa."
     },
     {
         "nombre" : "Cátsup",
         "precio" : 5,
+        "imagen" : "https://cdn.shopify.com/s/files/1/0706/6309/products/7501052472195_CATSUP_220g_00b4b7fa-e077-4c2a-91c7-a7726f795480_530x@2x.png?v=1563808731",
         "paquete" : "Botella 397 g",
         "descripcion" : "Sin conservadores, espesantes, ni colorantes."
     }
