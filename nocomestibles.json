@@ -2,25 +2,29 @@
     {
         "nombre" : "Pasta dental",
         "precio" : 10000,
+        "imagen" : "https://res.cloudinary.com/pgone/image/upload/pgone/oralb/es-mx/prod/images/hrzkkujv2v9mza2ysgpw",
         "paquete" : "125 ml",
         "descripcion":"Pasta dental on bicarbonato de sodio sabor menta."
     },
     {
         "nombre" : "Shampoo", 
         "precio" : 30000,
+        "imagen" : "https://images.ctfassets.net/jdgtuh2uadx0/Dg9OuAVFvFx2kjT3WFDUe/8d0042d49633164a0d8dbec694ae084e/CRECE-FUERTE-DESDE-LA-RA__Z-SHAMPOO.png",
         "paquete" : "375 ml",
         "descripcion":"Shampoo con 0% Parabenos, colorantes y sal."
     },
     {
         "nombre" : "Detergente",
         "precio" : 100000000,
-        "paquete" : "Botella 4.65 L",
+        "imagen" : "https://images.ctfassets.net/bvibm9frbh6a/1OEdNh4A8Sg59LZmjwG8zz/5b7d0716103af7a20234458a8eab082f/Ariel_Latam_Product_Listing_Page_DoblePoderLiquido_1.9.png",
+        "paquete" : "Botella 4.70 L",
         "descripcion" : "Protege y renueva los colores, rinde 62 cargas."
     },
     {
         "nombre" : "jabón corporal",
         "precio" : 5,
-        "paquete" : "Paquete 3 x 110 g",
-        "descripcion" : "Contiene: 3 barras de jabón de 110 g c/u."
+        "imagen" : "https://cdn.shopify.com/s/files/1/0566/4391/1854/products/7501943489127_200721.png?v=1633366334",
+        "paquete" : "Paquete 5 x 110 g",
+        "descripcion" : "Contiene: 5 barras de jabón de 110 g c/u."
     }
 ]
