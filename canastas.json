@@ -1,0 +1,37 @@
+[
+    {
+        "nombre" : "Canasta Básico",
+        "precio" : 160,
+        "imagen" : "https://cceneca.com/wp-content/uploads/2022/05/CANASTA-ROJO-CCENECA.png",
+        "paquete" : "aprox. 21 kg",
+        "descripcion":"Canasta con contenido: huevo, arroz, pasta, azúcar, avena, soya, frijol, aceite, trigo, inflado, garbanzo."
+    },
+    {
+        "nombre" : "Canasta Frutas y Verduras", 
+        "precio" : 160,
+        "imagen" : "https://cceneca.com/wp-content/uploads/2022/05/CANASTA-ROJO-CCENECA.png",
+        "paquete" : "14 kg",
+        "descripcion":"Contiene 4 variedades de frutas."
+    },
+    {
+        "nombre" : "Canasta Embutidos y lácteos",
+        "precio" : 160,
+        "imagen" : "https://cceneca.com/wp-content/uploads/2022/05/CANASTA-ROJO-CCENECA.png",
+        "paquete" : "14 kg",
+        "descripcion" : "Canasta con contenido: Leche, mantequilla, yogurt, queso, jamón, salchicha, gelatina, crema, carne."
+    },
+    {
+        "nombre" : "Canasta Abarrotes",
+        "precio" : 160,
+        "imagen" : "https://cceneca.com/wp-content/uploads/2022/05/CANASTA-ROJO-CCENECA.png",
+        "paquete" : "14 kg",
+        "descripcion" : "Aderezo, enlatados, cereal, galleta, jugo, pasta, refresco, cátsup, fritura, pan, despensa en general."
+    },
+    {
+        "nombre" : "Canasta No comestible",
+        "precio" : 160,
+        "imagen" : "https://cceneca.com/wp-content/uploads/2022/05/CANASTA-ROJO-CCENECA.png",
+        "paquete" : "1 kg",
+        "descripcion" : "Limpieza, detergente y artículos de uso personal."
+    }
+]
