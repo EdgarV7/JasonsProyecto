@@ -1,21 +1,21 @@
 [
     {
         "nombre" : "Manzana",
-        "precio" : 10000,
+        "precio" : 5,
         "imagen" : "https://www.frutality.es/wp-content/uploads/manzana-royal.png",
         "paquete" : "Precio por kg",
         "descripcion":"Pulpa blanca y cremosa, sabor dulce con un toque de acidez."
     },
     {
         "nombre" : "Plátano", 
-        "precio" : 30000,
+        "precio" : 5,
         "imagen" : "https://www.dmass.com.mx/assets/images/platano-986x723.png",
         "paquete" : "Precio por kg",
         "descripcion":"Con alto contenido en potasio, hierro y vitamina K."
     },
     {
         "nombre" : "Naranja",
-        "precio" : 100000000,
+        "precio" : 5,
         "imagen" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c16c.png",
         "paquete" : "Precio por kg",
         "descripcion" : "Ricas en tiamina, ácido fólico y vitamina C."
