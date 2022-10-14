@@ -1,21 +1,21 @@
 [
     {
         "nombre" : "Pasta dental",
-        "precio" : 10000,
+        "precio" : 5,
         "imagen" : "https://res.cloudinary.com/pgone/image/upload/pgone/oralb/es-mx/prod/images/hrzkkujv2v9mza2ysgpw",
         "paquete" : "125 ml",
         "descripcion":"Pasta dental on bicarbonato de sodio sabor menta."
     },
     {
         "nombre" : "Shampoo", 
-        "precio" : 30000,
+        "precio" : 5,
         "imagen" : "https://images.ctfassets.net/jdgtuh2uadx0/Dg9OuAVFvFx2kjT3WFDUe/8d0042d49633164a0d8dbec694ae084e/CRECE-FUERTE-DESDE-LA-RA__Z-SHAMPOO.png",
         "paquete" : "375 ml",
         "descripcion":"Shampoo con 0% Parabenos, colorantes y sal."
     },
     {
         "nombre" : "Detergente",
-        "precio" : 100000000,
+        "precio" : 5,
         "imagen" : "https://images.ctfassets.net/bvibm9frbh6a/1OEdNh4A8Sg59LZmjwG8zz/5b7d0716103af7a20234458a8eab082f/Ariel_Latam_Product_Listing_Page_DoblePoderLiquido_1.9.png",
         "paquete" : "Botella 4.70 L",
         "descripcion" : "Protege y renueva los colores, rinde 62 cargas."
