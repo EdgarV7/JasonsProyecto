@@ -1,21 +1,21 @@
 [
     {
         "nombre" : "Salchicha",
-        "precio" : 10000,
+        "precio" : 5,
         "imagen" : "https://www.heb.com.mx/media/catalog/product/cache/9f5ec31302878493d9ed0ac40a398e12/4/9/494597.png",
         "paquete" : "Resellable 500 g",
         "descripcion":"Sin conservadores ni colorantes artificiales. Con empaque resellable."
     },
     {
         "nombre" : "Jamón", 
-        "precio" : 30000,
+        "precio" : 5,
         "imagen" : "https://www.heb.com.mx/media/catalog/product/cache/9f5ec31302878493d9ed0ac40a398e12/8/1/811592_1_image.png",
         "paquete" : "Resellable 250 g",
         "descripcion":"Rebanadas delgadas. Sin colorantes ni conservadores artificiales."
     },
     {
         "nombre" : "Chorizo",
-        "precio" : 100000000,
+        "precio" : 5,
         "imagen" : "https://cdn.shopify.com/s/files/1/0266/6368/2128/products/Render_SKU_2326_San_Rafael_Chorizo_de_Cerdo_250g_Frontal_1024x.png?v=1624909057",
         "paquete" : "Al vacío",
         "descripcion" : "Chorizo de pavo reducido en grasa."
